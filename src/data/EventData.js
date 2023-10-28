@@ -23,4 +23,5 @@ export const EventData = [
         Eventname: "Innosprint",
         AboutEvent: "A 24 hours national level hackathon for developers from beginners to seasoned experts to create projects, learn new skills, win prizes, and make new friends along the way.",
     },
+    
   ];
